@@ -3,7 +3,6 @@
 **💡 This is the official implementation of the paper "Dual Memory Networks Guided Reverse Distillation for Unsupervised Anomaly Detection (ACCV 2024)"**  
 
 ## 🔧 Installation
-```
 ### Using conda
 #### Using environment.yml
 ```bash
