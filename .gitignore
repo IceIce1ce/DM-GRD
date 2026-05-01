@@ -16,6 +16,7 @@ __pycache__/
 *.gz
 *.tar.gz
 *.pkl
+*.ruff_cache
 
 # dataset ignore
 datasets/mvtec/
